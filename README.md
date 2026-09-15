@@ -1,4 +1,5 @@
 # ALU32 y ALU3 - Nand2Tetris
+# Sebastian Gudiño / Camila Rodriguez / Santiago Diaz
 
 Proyecto de implementación de dos Unidades Aritmético-Lógicas (ALU) utilizando HDL de Nand2Tetris.
 
