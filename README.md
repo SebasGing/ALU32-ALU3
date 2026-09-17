@@ -55,4 +55,4 @@ La ALU3 también genera las banderas `zr` y `ng`.
 
 Video explicativo del proyecto:
 
-[Video de YouTube](PEGAR_AQUI_EL_LINK_DE_YOUTUBE)
+[Video de YouTube](https://youtu.be/YVZNKg10JJ8?si=mxaBVssyHTaRcbW6)
